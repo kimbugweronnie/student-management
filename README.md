@@ -1,4 +1,4 @@
 NextJs
 HonoJs
 Prisma
-PostgresDB
+PostgresDB Template
